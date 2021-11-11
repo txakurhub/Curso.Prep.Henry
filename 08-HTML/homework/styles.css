@@ -1,0 +1,35 @@
+h1{
+    color:rebeccapurple;
+}
+img{
+    width: 400px;
+}
+body {
+    background-image: url(https://previews.123rf.com/images/perekotypole/perekotypole1609/perekotypole160900319/63269726-acuarela-patr%C3%B3n-de-tri%C3%A1ngulo-amarillo-acuarela-patr%C3%B3n-geom%C3%A9trico-.jpg)
+}
+    .divClass {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin-bottom: 0;
+}
+#thirdId{
+    margin-left: 28%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    height: 600px; width: 500px;
+    background-color: brown;
+    padding: 50px;
+    border: 15px black;
+}
+#spanId {
+    font-size: 18px;
+    margin-top: 0px;
+    margin: 50px;  
+}
+.imagen {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
